@@ -22,6 +22,8 @@ I also created an interactive dashboard where the data can be filtered using sli
 
 ## Dashboard
 
+![E-Commerce Sales Dashboard](Dashboard.png)
+
 The dashboard shows:
 
 - Total Revenue
